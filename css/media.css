@@ -715,7 +715,7 @@
     #content06 .cont04 .img ul li:nth-child(2) img{width: 29%;}
     #content06 .cont04 .img ul li:nth-child(3) img{width: 26%;}
     #content06 .cont04 .img ul li:nth-child(4) img{width: 24%;}
-    .footer .f_center .f_menu{height: 50%;width: 100%;margin-left: 5%;}
+    .footer .f_center .f_menu{height: 50%;width: 100%;margin-left: 20%;}
     .footer .f_center .f_copy{margin-left: 5%; width: 100%;} 
 }
 @media(max-width:405px){
